@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Jhomar Alexis 👋</h1>
 
-<!--
-**Jhomar-Alexis/Jhomar-Alexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🏆 Trofeos de GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Jhomar-Alexis&theme=algolia&margin-w=10&margin-h=10)](https://github.com/Jhomar-Alexis)
+
+---
+
+### 📊 Estadísticas de GitHub
+
+![Jhomar-Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhomar-Alexis&show_icons=true&theme=radical)
+
+---
+
+### 🚀 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhomar-Alexis&layout=compact&theme=radical)
+
+---
+
+### 📫 Contacto
+
+- 💻 Desarrollador web de Perú 🇵🇪
+- 📩 Puedes encontrarme en GitHub: [Jhomar-Alexis](https://github.com/Jhomar-Alexis)
