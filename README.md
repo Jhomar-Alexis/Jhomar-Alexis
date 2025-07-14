@@ -49,7 +49,7 @@
 
 ### 🧠 Actualmente
 
-- 🔭 Trabajando en proyectos personales con React y Node.js
+- 🔭 Trabajando en proyectos personales con Nuxt.js y Node.js
 - 🌱 Aprendiendo sobre TypeScript y Testing con Jest
 - 🤝 Abierto a colaboraciones en proyectos open-source
 
@@ -62,8 +62,8 @@
 
 ### 📬 También en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://tuportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhomar-alexis-chero-sosa-399201262/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://portafolio-j-a.vercel.app/)
 
 ---
 
