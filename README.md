@@ -71,11 +71,11 @@
 </details>
 
 <details>
-<summary>📂 Proyectos destacados</summary>
+<summary>📂 Ver más sobre mí</summary>
 
-- 🚀 [Clon de Netflix](https://github.com/Jhomar-Alexis/netflix-clone) — App con React + Firebase.
-- 📦 [API REST Node.js](https://github.com/Jhomar-Alexis/api-node-postgres) — CRUD con PostgreSQL.
-- 🖼️ [Portafolio](https://github.com/Jhomar-Alexis/portafolio-nuxt) — Mi web personal con Nuxt y SSR.
+- 🎓 Graduado en Senati en la carrera Ing. de Software con I.A
+- 🧠 Me gusta aprender sobre arquitectura de software
+- 📚 Fan de la documentación clara y buenas prácticas
 
 </details>
 
