@@ -1,4 +1,25 @@
+<!-- Banner personalizado (reemplaza la URL con la tuya) -->
+
+
 <h1 align="center">Hola, soy Jhomar Alexis 👋</h1>
+
+<p align="center">
+  Desarrollador web apasionado por la tecnología, el aprendizaje continuo y crear soluciones que impacten positivamente. 🌐💡 <br/>
+  Actualmente explorando nuevas herramientas y frameworks para seguir creciendo. 🚀
+</p>
+
+---
+
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
@@ -20,7 +41,26 @@
 
 ---
 
+### 🧠 Actualmente
+
+- 🔭 Trabajando en proyectos personales con React y Node.js
+- 🌱 Aprendiendo sobre TypeScript y Testing con Jest
+- 🤝 Abierto a colaboraciones en proyectos open-source
+
+---
+
 ### 📫 Contacto
 
 - 💻 Desarrollador web de Perú 🇵🇪
 - 📩 Puedes encontrarme en GitHub: [Jhomar-Alexis](https://github.com/Jhomar-Alexis)
+
+### 📬 También en:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://tuportfolio.com)
+
+---
+
+### 📈 Visitas al perfil
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Jhomar-Alexis.Jhomar-Alexis)
