@@ -1,4 +1,3 @@
-
 <h1 align="center">Hola, soy Jhomar Alexis 👋</h1>
 
 <p align="center">
@@ -29,6 +28,15 @@
 
 ---
 
+### 🏷️ Badges personalizados
+
+![OS](https://img.shields.io/badge/SO-Windows%2011-blue?style=flat-square&logo=windows)
+![IDE](https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-Full%20Stack%20JS-success?style=flat-square&logo=javascript)
+![Framework](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+
+---
+
 ### 🏆 Trofeos de GitHub
 
 [![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Jhomar-Alexis&theme=algolia&margin-w=10&margin-h=10)](https://github.com/Jhomar-Alexis)
@@ -47,18 +55,36 @@
 
 ---
 
-### 🧠 Actualmente
+### 🗓️ Mi actividad en GitHub
 
-- 🔭 Trabajando en proyectos personales con Nuxt.js y Node.js
-- 🌱 Aprendiendo sobre TypeScript y Testing con Jest
-- 🤝 Abierto a colaboraciones en proyectos open-source
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jhomar-Alexis&theme=github-compact)
+
+---
+
+<details>
+<summary>🧠 Actualmente estoy trabajando en...</summary>
+
+- 🔭 Proyectos personales con **Nuxt.js**, **Node.js** y **Vue**
+- 🌱 Aprendiendo **TypeScript**, **Jest** y mejores prácticas en testing
+- 🤝 Abierto a colaborar en proyectos interesantes (especialmente open-source)
+
+</details>
+
+<details>
+<summary>📂 Proyectos destacados</summary>
+
+- 🚀 [Clon de Netflix](https://github.com/Jhomar-Alexis/netflix-clone) — App con React + Firebase.
+- 📦 [API REST Node.js](https://github.com/Jhomar-Alexis/api-node-postgres) — CRUD con PostgreSQL.
+- 🖼️ [Portafolio](https://github.com/Jhomar-Alexis/portafolio-nuxt) — Mi web personal con Nuxt y SSR.
+
+</details>
 
 ---
 
 ### 📫 Contacto
 
 - 💻 Desarrollador web de Perú 🇵🇪 +51 971375528
-- 📩 Puedes encontrarme en GitHub: [Jhomar-Alexis](https://github.com/Jhomar-Alexis)
+- 📩 GitHub: [Jhomar-Alexis](https://github.com/Jhomar-Alexis)
 
 ### 📬 También en:
 
