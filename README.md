@@ -1,5 +1,3 @@
-<!-- Banner personalizado (reemplaza la URL con la tuya) -->
-
 
 <h1 align="center">Hola, soy Jhomar Alexis 👋</h1>
 
@@ -59,7 +57,7 @@
 
 ### 📫 Contacto
 
-- 💻 Desarrollador web de Perú 🇵🇪
+- 💻 Desarrollador web de Perú 🇵🇪 +51 971375528
 - 📩 Puedes encontrarme en GitHub: [Jhomar-Alexis](https://github.com/Jhomar-Alexis)
 
 ### 📬 También en:
@@ -67,8 +65,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhomar-alexis-chero-sosa-399201262/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://portafolio-j-a.vercel.app/)
 
----
-
-### 📈 Visitas al perfil
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Jhomar-Alexis.Jhomar-Alexis)
