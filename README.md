@@ -4,7 +4,7 @@
 
 ### 🏆 Trofeos de GitHub
 
-[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Jhomar-Alexis&theme=algolia&margin-w=10&margin-h=10)](https://github.com/Jhomar-Alexis)
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Jhomar-Alexis&theme=algolia&margin-w=10&margin-h=10)](https://github.com/Jhomar-Alexis)
 
 ---
 
