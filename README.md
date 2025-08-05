@@ -83,7 +83,7 @@
 
 <h3 align="center">📫 Contacto</h3>
 
-<div align="center">
+<p align="center">
   <a href="https://wa.me/51971375528">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
@@ -96,7 +96,7 @@
   <a href="https://portafolio-j-a.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
-</div>
+</p>
 
 
 
