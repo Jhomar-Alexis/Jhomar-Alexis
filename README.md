@@ -83,7 +83,7 @@
 
 ### 📫 Contacto
 
-- 💻 Desarrollador web de Perú 🇵🇪 +51 971375528
+[![💻 Desarrollador web de Perú 🇵🇪 +51 971375528](https://img.shields.io/badge/💻%20Desarrollador%20web%20de%20Perú%20🇵🇪%20+51%20971375528-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51971375528)
 [![Jhomar-Alexis](https://img.shields.io/badge/GitHub:%20Jhomar%20Alexis-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhomar-Alexis)
 
 ### 📬 También en:
