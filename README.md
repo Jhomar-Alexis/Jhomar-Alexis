@@ -81,10 +81,21 @@
 
 ---
 
-### 📫 Contacto
+<h3 align="center">📫 Contacto</h3>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51971375528)
-[![Jhomar-Alexis](https://img.shields.io/badge/GitHub:%20Jhomar%20Alexis-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhomar-Alexis)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhomar-alexis-chero-sosa-399201262/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://portafolio-j-a.vercel.app/)
+<p align="center">
+  <a href="https://wa.me/51971375528">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://github.com/Jhomar-Alexis">
+    <img src="https://img.shields.io/badge/GitHub:%20Jhomar%20Alexis-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/jhomar-alexis-chero-sosa-399201262/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://portafolio-j-a.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
 
