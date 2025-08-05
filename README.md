@@ -84,7 +84,7 @@
 ### 📫 Contacto
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51971375528)
-[![Jhomar-Alexis](https://img.shields.io/badge/GitHub:%20Jhomar%20Alexis-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhomar-Alexis)
+[![Jhomar-Alexis](https://img.shields.io/badge/GitHub:%20Jhomar%20Alexis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhomar-Alexis)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhomar-alexis-chero-sosa-399201262/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://portafolio-j-a.vercel.app/)
 
