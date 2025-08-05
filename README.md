@@ -10,7 +10,7 @@
 <h3 align="center">🧰 Tech Stack</h3>
 
 <table align="center">
-  <tr style="  border-width: 2px; border-style: solid; border-color: white;">
+  <tr style="border-width: 2px; border-style: solid; border-color: white;">
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"><br>
       <strong>HTML5</strong>
